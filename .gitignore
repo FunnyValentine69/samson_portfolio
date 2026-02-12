@@ -1,0 +1,16 @@
+# Claude Code
+CLAUDE.md
+.claude/
+
+# OS files
+.DS_Store
+.Rhistory
+Thumbs.db
+
+# Editor/tool config
+prepros*.config
+
+# Python
+__pycache__/
+*.pyc
+.env
